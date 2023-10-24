@@ -114,11 +114,11 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(21rem, 1fr));
     padding: 30px;
     position: relative;
-    cursor: pointer;
   }
 
   .card__img {
     width: 100%;
+    cursor: pointer;
   }
 
   .footer__section {
