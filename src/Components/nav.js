@@ -1,14 +1,13 @@
-import { Link } from "react-router-dom";
+
 import "../Style/main.css";
 
 function Nav() {
     return (
         <nav className="nav">
-            <Link> Accueil </Link> 
-            <Link> À propos </Link> 
-            <Link> Compétences  </Link> 
-            <Link> Mes projets </Link> 
-            <Link> Contact </Link>
+            <a href="#about-me"> À propos </a> 
+            <a href="#skills"> Compétences  </a> 
+            <a href="#galerie"> Mes projets </a> 
+            <a href="#contact"> Contact </a>
         </nav>
     )
 }

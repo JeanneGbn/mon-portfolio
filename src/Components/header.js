@@ -1,13 +1,12 @@
 import '../Style/main.css';
-import { Link } from 'react-router-dom';
  import Nav from '../Components/nav';
 
 function Header(){
     return (
         <header className='header'>
-            <Link to="/" className='header_link'> 
+            <a className='header_link' href="#hero"> 
              Jeanne Goubin 
-            </Link>
+            </a>
             <Nav />
         </header>
     )
