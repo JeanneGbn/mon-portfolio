@@ -144,35 +144,7 @@ body {
   }
 
 
-  .section__galerie {
-    margin-right: 0px;
-    width: 100%;
-    z-index: 1;
-  }
 
-  .section__galerie h2 {
-    text-align: center;
-  }
-
-  .card {
-    display: grid;
-    justify-content: start;
-    gap: 45px;
-    grid-template-columns: repeat(auto-fill, minmax(21rem, 1fr));
-    padding: 30px;
-  }
-
-  .card__img {
-    width: 100%;
-    cursor: pointer;
-    filter: drop-shadow(0 0 0.50rem grey);
-    transition-property: transform;
-    transition-duration: 1000ms;
-  }
-
-  .card__img:hover {
-    transform: scale(1.1);
-  }
 
 
   .footer__section {
