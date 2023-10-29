@@ -3,44 +3,34 @@
         "id": "1",
         "alt": "Image du projet",
         "picture":"Kasa.png",
-        "desciption": "blablabla",
-        "text": "HTML - CSS - JS - REACT",
-        "githubLink": "https://github.com/AngieLeutard/booki",
-        "webLink": "https://angieleutard.github.io/OhmyfoodProject/"
+        "text": "Créer une application Web de location immobilière avec React",
+        "lien": "https://github.com/JeanneGbn/Kasa-main"
     },
     {
         "id": "2",
         "alt": "Image du projet",
         "picture":"OhMyFood.png",
-        "desciption": "blablabla",
-        "githubLink": "https://github.com/AngieLeutard/booki",
-        "text": "HTML - CSS - JS - REACT",
-        "webLink": "https://angieleutard.github.io/OhmyfoodProject/"
-    },
+        "text": "Améliorer l'interface d'un site mobile avec des animations CSS",
+        "Lien": "https://github.com/JeanneGbn/OhMyFood"
+        },
     {
         "id": "3",
         "alt": "Image du projet",
         "picture":"Booki.png",
-        "desciption": "blablabla",
-        "githubLink": "https://github.com/AngieLeutard/booki",
-        "text": "HTML - CSS - JS - REACT",
-        "webLink": "https://angieleutard.github.io/OhmyfoodProject/"
+        "text": "Créer la page d'accueil d'une agence de voyage en HTML & CSS",
+        "Lien": "https://github.com/JeanneGbn/Images-Booki"
     },{
         "id": "4",
         "alt": "Image du projet",
         "picture":"NinaCarducci.png",
-        "desciption": "blablabla",
-        "githubLink": "https://github.com/AngieLeutard/booki",
-        "text": "HTML - CSS - JS - REACT",
-        "webLink": "https://angieleutard.github.io/OhmyfoodProject/"
+        "text": "Optimiser le référencement d'un site de photographe",
+        "Lien": "https://github.com/JeanneGbn/ninacarducci.github.io-main"
     },
     {
         "id": "5",
         "alt": "Image du projet",
         "picture":"SophieBluel.png",
-        "desciption": "blablabla",
-        "githubLink": "https://github.com/AngieLeutard/booki",
-        "text": "HTML - CSS - JS - REACT",
-        "webLink": "https://angieleutard.github.io/OhmyfoodProject/"
+        "text": "Créer une page Web dynamique avec JavaScript",
+        "Lien": "https://github.com/JeanneGbn/Portfolio-architecte-sophie-bluel-master"
     }
 ]

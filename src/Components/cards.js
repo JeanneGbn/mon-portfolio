@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 
 import PropTypes from 'prop-types';
 
-function Card({picture, text}) {
+function Card({picture, text, Lien}) {
 
     const [isActive, setIsActive] = useState(false);
 
@@ -14,12 +14,12 @@ function Card({picture, text}) {
     }, [Text]);
 
     return (
-        <div className="projet_div">
+        <Link className="projet_div" to={Lien}>
             <img src={ require('../Images/' + picture) } alt="cardPicture" className="projet_picture" />
             <section className="text_section">
                 <p className='projet_text'> {text} </p>
             </section>
-        </div>
+        </Link>
     )
 }
 

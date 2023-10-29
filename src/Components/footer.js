@@ -8,9 +8,7 @@ function Footer() {
               Mail: j.goubin@gmail.com
             </div>
             <div className='footer_right'>
-                Réseaux sociaux: 
-                insta
-                LinkedIn
+            https://fr.linkedin.com/in/jeanne-goubin-a23a88250
             </div>
         </footer>
     )

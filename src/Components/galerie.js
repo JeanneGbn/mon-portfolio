@@ -9,17 +9,14 @@ import '../Style/test.css';
 function Galerie() {
     return (
         <div className='projets__section' id="about">
-        <h2 className="projets_title">Mes réalisations</h2>
+        <h2 className="projets_title">Mes projets</h2>
         <section className="projets_wrapper">
             {Projets.map((projet) => (
                 <Card
                         key={ projet.picture }
                         picture={ projet.picture }
-                        description={ projet.description }
                         text={ projet.text }
-                        outils={ projet.outils }
-                        GithubLink={ projet.githubLink }
-                        WebLink={ projet.webLink }
+                        Lien={ projet.Lien }
                 />
             ))}
         </section>

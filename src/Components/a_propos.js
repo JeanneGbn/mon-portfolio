@@ -1,5 +1,6 @@
 import '../Style/main.css';
 import picture from '../Images/portrait.jpg';
+ 
 
 
 function AboutMe() {
@@ -15,8 +16,6 @@ function AboutMe() {
                     Étant sensibilisée à l’expérience utilisateur durant mon parcours j’ai décidé de 
                     continuer ma formation en UX Design. 
                 </p>
-                <button className='cv_button'> Télécharger mon cv </button>
-
             </div>
         </section>
     )
