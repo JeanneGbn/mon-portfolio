@@ -8,7 +8,7 @@ import '../Style/test.css';
 
 function Galerie() {
     return (
-        <div className='projets__section' id="about">
+        <div className='projets__section' id="galerie">
         <h2 className="projets_title">Mes projets</h2>
         <section className="projets_wrapper">
             {Projets.map((projet) => (
@@ -17,6 +17,7 @@ function Galerie() {
                         picture={ projet.picture }
                         text={ projet.text }
                         Lien={ projet.Lien }
+                        skills={ projet.skills }
                 />
             ))}
         </section>

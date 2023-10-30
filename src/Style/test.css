@@ -52,6 +52,13 @@
   text-align: center;
   color: white;
 }
+.projet_skills {
+  transition: opacity 0.2s ease-in-out;
+  margin: 10%;
+  font-size: 16px;
+  text-align: center;
+  color: white;
+}
 
 
 

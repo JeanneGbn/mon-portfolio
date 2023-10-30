@@ -20,45 +20,45 @@ function Skills() {
            <div className='skills__allSkills'>
               <div className='skills__div'>
                  <div className='skills__img_div'>
-                   <img className='skills__img' src={htmlIMG} />
+                   <img className='skills__img' src={htmlIMG} alt='logo de la technologie'/>
                    <span className='skills__text'> HTML </span>
                  </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={cssIMG} />
+                    <img className='skills__img' src={cssIMG} alt='logo de la technologie' />
                     <span className='skills__text'> CSS </span>
                   </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={jsIMG} />
+                    <img className='skills__img' src={jsIMG} alt='logo de la technologie'/>
                     <span className='skills__text'> JavaScript </span>
                   </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={reactIMG} />
+                    <img className='skills__img' src={reactIMG} alt='logo de la technologie'/>
                     <span className='skills__text'> React </span>
                   </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={reduxIMG} />
+                    <img className='skills__img' src={reduxIMG} alt='logo de la technologie'/>
                     <span className='skills__text'> Redux </span>
                   </div>
               </div>
               <div className='skills__div'>
                  <div className='skills__img_div'>
-                   <img className='skills__img' src={figmaIMG} />
+                   <img className='skills__img' src={figmaIMG} alt='logo de la technologie'/>
                    <span className='skills__text'> Figma </span>
                  </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={githubIMG} />
+                    <img className='skills__img' src={githubIMG} alt='logo de la technologie'/>
                     <span className='skills__text'> GitHub </span>
                   </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={seoIMG} />
+                    <img className='skills__img' src={seoIMG} alt='logo de la technologie'/>
                     <span className='skills__text'> SEO </span>
                   </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={swaggerIMG} />
+                    <img className='skills__img' src={swaggerIMG} alt='logo de la technologie'/>
                     <span className='skills__text'> Swagger </span>
                   </div>
                   <div className='skills__img_div'>
-                    <img className='skills__img' src={sassIMG} />
+                    <img className='skills__img' src={sassIMG} alt='logo de la technologie'/>
                     <span className='skills__text'> SASS</span>
                   </div>
               </div>

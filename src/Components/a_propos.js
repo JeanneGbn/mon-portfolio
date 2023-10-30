@@ -7,7 +7,7 @@ function AboutMe() {
     return (
         <section className='about-me__section' id='about-me'>
             <div className='picture__div'>
-            <img className='picture' src={picture}></img>
+            <img className='picture' src={picture} alt='Photo de Jeanne Goubin'></img>
             </div>
             <div className='about-me__section_text'>
                 <h2> À propos </h2>
