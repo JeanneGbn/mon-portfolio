@@ -11,10 +11,10 @@ function AboutMe() {
             </div>
             <div className='about-me__section_text'>
                 <h2> À propos </h2>
-                <p> Après une reconversion professionnelle et passionnée par le Web Design, 
+                <p> Après une reconversion professionnelle et une formation d'intégrateur Web chez OpenClassrooms, 
                     je me suis tournée vers la programmation front-end. 
-                    Étant sensibilisée à l’expérience utilisateur durant mon parcours j’ai décidé de 
-                    continuer ma formation en UX Design. 
+                    Étant sensibilisée à l’expérience utilisateur j’ai décidé de 
+                    continuer mon parcours en UX Design. 
                 </p>
             </div>
         </section>
